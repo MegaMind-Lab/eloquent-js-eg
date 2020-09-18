@@ -1,4 +1,4 @@
-const SCRIPTS = require("./scriptures/scripts");
+const SCRIPTS = require("../scriptures/scripts");
 'use scripts'
 
 function characterScript(code) {
